@@ -221,7 +221,7 @@ Output:
 000-default.conf default-ssl.conf lampProject.conf
 ```
 
-![Projectlamp config file](<./images/Screenshot 2026-06-16 230441.png>)
+![Projectlamp config file](<./IMAGES/Screenshot 2026-06-16 230441.png>)
 
 The new site was enabled while the default site was disabled.
 
